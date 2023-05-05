@@ -1,4 +1,4 @@
-# Bank_customer_churn_presiction
+# Bank_customer_churn_prediction
 
 1. No Banks & Business can thrive without its customer’s. On the flip side, Customers leaving the Banks is a nightmare that every bank dreads
 
